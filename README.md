@@ -23,10 +23,6 @@ This project is an **AI-powered real-time Mood Tracker** that analyzes facial ex
 ## 🚀 Installation & Setup  
 
 ### 1️⃣ **Clone the Repository**  
-```sh
-git clone https://github.com/yourusername/ai-mood-tracker.git
-cd ai-mood-tracker
-```
 
 ### Install the dependencies
 ```sh
